@@ -3,10 +3,10 @@
 </p>
 <br>
 
->+ Genre [^1]
+>+ [Genre](README.md/genre)
 
 
-[^1]: ## Genre
+<span id="genre"><h2>[Genre](genre)</h2></span>
 + RPG
 + Top-Down
 + Turn-Based
