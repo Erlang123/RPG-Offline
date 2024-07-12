@@ -6,7 +6,7 @@
 >+ [Genre](#genre)
 
 
-<span id="genre"><h2>[Genre](genre)</h2></span>
+<span id="genre"><h2>Genre</h2></span>
 + RPG
 + Top-Down
 + Turn-Based
