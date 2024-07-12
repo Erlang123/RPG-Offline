@@ -3,7 +3,10 @@
 </p>
 <br>
 
-## Genre
+>+ Genre [^1]
+
+
+[^1]: ## Genre
 + RPG
 + Top-Down
 + Turn-Based
