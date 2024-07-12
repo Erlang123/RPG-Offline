@@ -3,10 +3,11 @@
 </p>
 <br>
 
+<!--
 > ### Table of content
 >+ [Genre](#genre)
 >+ [Story](#story)
-
+-->
 
 ## Genre
 + RPG
