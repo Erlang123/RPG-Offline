@@ -1,15 +1,16 @@
-![](asset/title.svg)
+<p align="center">
+  <img src="asset/title.svg">
+</p>
+<br>
 
-# Title: RPG-Offline
+## Genre
++ RPG
++ Top-Down
++ Turn-Based
++ Pixel
+<br>
 
->[!IMPORTANT]
->Genre:
->+ RPG
->+ Top-Down
->+ Turn-Based
->+ Pixel
-
-Story:
+## Story
 
 __(Prologue)__
 
