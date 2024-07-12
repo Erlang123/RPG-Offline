@@ -3,10 +3,12 @@
 </p>
 <br>
 
->+ [Genre](#fer)
+> ### Table of content
+>+ [Genre](#genre)
+>+ [Story](#story)
 
 
-<span id="genre"><h2>Genre</h2></span>
+## Genre
 + RPG
 + Top-Down
 + Turn-Based
