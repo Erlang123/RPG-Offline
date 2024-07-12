@@ -1,6 +1,6 @@
 ![](asset/title.svg)
 
-# Title: RPG_Offline
+# Title: RPG-Offline
 Genre: RPG, Top-Down, Turn-Based
 
 Story:
