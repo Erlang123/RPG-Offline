@@ -3,7 +3,7 @@
 </p>
 <br>
 
->+ [Genre](#genre)
+>+ [Genre](#story)
 
 
 <span id="genre"><h2>Genre</h2></span>
