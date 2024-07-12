@@ -1,7 +1,13 @@
 ![](asset/title.svg)
 
 # Title: RPG-Offline
-Genre: RPG, Top-Down, Turn-Based
+
+>[!IMPORTANT]
+>Genre:
+>+ RPG
+>+ Top-Down
+>+ Turn-Based
+>+ Pixel
 
 Story:
 
