@@ -3,7 +3,7 @@
 </p>
 <br>
 
->+ [Genre](README.md/genre)
+>+ [Genre](#genre)
 
 
 <span id="genre"><h2>[Genre](genre)</h2></span>
